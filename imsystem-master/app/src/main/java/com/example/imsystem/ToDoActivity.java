@@ -44,7 +44,7 @@ import com.squareup.okhttp.OkHttpClient;
 import static com.microsoft.windowsazure.mobileservices.table.query.QueryOperations.*;
 
 public class ToDoActivity extends Activity {
-    //I am here: shao
+    //I am here: shao 9/18/2016
     /**
      * Mobile Service Client reference
      */
